@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 import tkinter as tk
 from tkinter import filedialog
 
-#all notes should be in English
 def openfile():
     # Read image file, no chinese
     root = tk.Tk()
